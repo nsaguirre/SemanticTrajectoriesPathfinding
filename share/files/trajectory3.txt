@@ -1,0 +1,3 @@
+Object_Id Type BeginTime BeginLat BeginLng EndTime EndLat EndLng
+0 move 0 41.878291 -87.666134 493 41.883291 -87.650134
+0 move 493 41.883291 -87.650134 1000 41.89606 -87.630522
